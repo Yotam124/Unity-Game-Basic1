@@ -1,0 +1,13 @@
+C:\Users\yotam\source\repos\BFS_Algorithem\bin\Debug\netcoreapp3.1\BFS_Algorithem.exe
+C:\Users\yotam\source\repos\BFS_Algorithem\bin\Debug\netcoreapp3.1\BFS_Algorithem.deps.json
+C:\Users\yotam\source\repos\BFS_Algorithem\bin\Debug\netcoreapp3.1\BFS_Algorithem.runtimeconfig.json
+C:\Users\yotam\source\repos\BFS_Algorithem\bin\Debug\netcoreapp3.1\BFS_Algorithem.runtimeconfig.dev.json
+C:\Users\yotam\source\repos\BFS_Algorithem\bin\Debug\netcoreapp3.1\BFS_Algorithem.dll
+C:\Users\yotam\source\repos\BFS_Algorithem\bin\Debug\netcoreapp3.1\BFS_Algorithem.pdb
+C:\Users\yotam\source\repos\BFS_Algorithem\obj\Debug\netcoreapp3.1\BFS_Algorithem.csprojAssemblyReference.cache
+C:\Users\yotam\source\repos\BFS_Algorithem\obj\Debug\netcoreapp3.1\BFS_Algorithem.csproj.CoreCompileInputs.cache
+C:\Users\yotam\source\repos\BFS_Algorithem\obj\Debug\netcoreapp3.1\BFS_Algorithem.AssemblyInfoInputs.cache
+C:\Users\yotam\source\repos\BFS_Algorithem\obj\Debug\netcoreapp3.1\BFS_Algorithem.AssemblyInfo.cs
+C:\Users\yotam\source\repos\BFS_Algorithem\obj\Debug\netcoreapp3.1\BFS_Algorithem.dll
+C:\Users\yotam\source\repos\BFS_Algorithem\obj\Debug\netcoreapp3.1\BFS_Algorithem.pdb
+C:\Users\yotam\source\repos\BFS_Algorithem\obj\Debug\netcoreapp3.1\BFS_Algorithem.genruntimeconfig.cache
